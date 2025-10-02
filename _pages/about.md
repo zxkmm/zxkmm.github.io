@@ -30,6 +30,7 @@ I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
 
 When I'm Not Coding
 ======
+
 Music 🎵
 ------
 I'm a classical music nerd - piano sonatas and symphonies are my jam. I also play piano and dabble with violin (emphasis on "dabble" for the violin part!).

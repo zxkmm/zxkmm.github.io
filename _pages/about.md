@@ -9,19 +9,18 @@ redirect_from:
 
 I'm zxkmm (but you can also call me sommermorgentraum or just zix). I'm a wireless and cybersecurity researcher who's basically obsessed with SDRs, wireless security, and embedded development.
 
+
 # What I'm Building
-
 I spend much time coding on various projects - both my own projects and contributing to other community-driven projects. For several of these, I'm a core contributor and/or core maintainer.
-
 - **[HackRF-PortaPack-Mayhem](https://github.com/portapack-mayhem/mayhem-firmware)** - A powerful portable SDR that lets you test/hack many wireless systems on the go.
 - **[SiYuan](https://github.com/siyuan-note/siyuan)** - An personal knowledge management tool that works everywhere.
 - **[My SiYuan plugins](https://github.com/stars/zxkmm/lists/my-siyuan-plugins)** - They are good quality and well known.
 - **[My RF research projects](https://github.com/stars/zxkmm/lists/my-rf-research-projects)** - Cool toys.
 
+
 # Let's Chat!
 ## DM Me
 I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
-
 - **Discord:** @zxkmm
 - **Email:** 
   - [admin@zxkmm.com](mailto:admin@zxkmm.com)
@@ -32,8 +31,8 @@ I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
 - [The Pirate's Plunder](https://discord.gg/TsGUcUGK3Q) - A lovely hacker community.
 - [Mayhem Community](https://discord.gg/sPY3Gp5h8n) - A hub for radio, code, and hardware experts.
 
-# When I'm Not Coding
 
+# When I'm Not Coding
 ## Music
 I'm a classical music nerd - piano sonatas and symphonies are my jam. I also play piano and dabble with violin (emphasis on "dabble" for the violin part!).
 

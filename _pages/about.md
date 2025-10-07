@@ -19,6 +19,7 @@ I spend much time coding on various projects - both my own projects and contribu
 - **[My RF research projects](https://github.com/stars/zxkmm/lists/my-rf-research-projects)** - Cool toys.
 
 # Let's Chat!
+## DM Me
 I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
 
 - **Discord:** @zxkmm
@@ -26,6 +27,9 @@ I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
   - [admin@zxkmm.com](mailto:admin@zxkmm.com)
   - [zxkmm@hotmail.com](mailto:zxkmm@hotmail.com)
 - **WeChat:** treshaunmann [[QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://u.wechat.com/MOHiZKyc0KEJRIp0IpniK60?s=2)]
+## Places Where I Usually Hang Out
+- [The Pirate's Plunder](https://discord.gg/TsGUcUGK3Q) - A lovely hacker community.
+- [Mayhem Community](https://discord.gg/sPY3Gp5h8n) - A hub for radio, code, and hardware experts.
 
 # When I'm Not Coding
 

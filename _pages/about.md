@@ -23,8 +23,8 @@ I'm always down to talk tech, music, or whatever! Slide into my DMs anytime!
 
 - **Discord:** @zxkmm
 - **Email:** 
-  - admin@zxkmm.com
-  - zxkmm@hotmail.com
+  - [admin@zxkmm.com](mailto:admin@zxkmm.com)
+  - [zxkmm@hotmail.com](mailto:zxkmm@hotmail.com)
 - **WeChat:** treshaunmann [[QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://u.wechat.com/MOHiZKyc0KEJRIp0IpniK60?s=2)]
 
 # When I'm Not Coding

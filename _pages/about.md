@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me and what I do"
+title: "zxkmm - About me and what I do"
 author_profile: true
 redirect_from: 
   - /about/

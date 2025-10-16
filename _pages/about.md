@@ -17,7 +17,6 @@ I spend much time coding on various projects - both my own projects and contribu
 - **[Flipper Zero - Momentum](https://github.com/Next-Flip/Momentum-Firmware)** The advanced firmware for Flipper Zero.
 - **[My SiYuan plugins](https://github.com/stars/zxkmm/lists/my-siyuan-plugins)** - They are good quality and well known.
 - **[My RF research projects](https://github.com/stars/zxkmm/lists/my-rf-research-projects)** - Cool toys.
--
 
 # Let's Chat!
 ## DM Me

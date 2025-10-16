@@ -14,7 +14,7 @@ I'm zxkmm (but you can also call me sommermorgentraum or just zix). I'm a wirele
 I spend much time coding on various projects - both my own projects and contributing to other community-driven projects. For several of these, I'm a core contributor and/or core maintainer.
 - **[HackRF-PortaPack-Mayhem](https://github.com/portapack-mayhem/mayhem-firmware)** - A powerful portable SDR that lets you test/hack many wireless systems on the go.
 - **[SiYuan](https://github.com/siyuan-note/siyuan)** - An personal knowledge management tool that works everywhere.
-- **[Flipper Zero - Momentum](https://github.com/Next-Flip/Momentum-Firmware) The advanced firmware for Flipper Zero.
+- **[Flipper Zero - Momentum](https://github.com/Next-Flip/Momentum-Firmware)** The advanced firmware for Flipper Zero.
 - **[My SiYuan plugins](https://github.com/stars/zxkmm/lists/my-siyuan-plugins)** - They are good quality and well known.
 - **[My RF research projects](https://github.com/stars/zxkmm/lists/my-rf-research-projects)** - Cool toys.
 -
